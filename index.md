@@ -4,4 +4,6 @@
 
 ---
 
+Check out the main page at <https://danhugh.es>
+
 ### Articles

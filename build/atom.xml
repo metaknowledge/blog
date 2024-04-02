@@ -2,11 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Daniel's Blog</title>
 	<link href="https://barf.btxx.org/atom.xml" rel="self" />
-	<updated>2024-03-28T21:23:35Z</updated>
+	<updated>2024-04-02T10:58:35Z</updated>
 	<author>
 		<name>metaknowledge</name>
 	</author>
 	<id>https://barf.btxx.org,2024-01-19:default-atom-feed/</id>
+	<entry>
+		<title>Website Plans</title>
+		<content type="html">&lt;h1&gt;Website Plans&lt;/h1&gt;
+&lt;p&gt;2024-03-28&lt;/p&gt;
+&lt;hr /&gt;
+
+A todo list if you will, taken from &lt;a href=&quot;https://jamesg.blog/2024/02/19/personal-website-ideas/&quot;&gt;this blog post&lt;/a&gt;. 
+&lt;ol&gt;
+&lt;li&gt;&lt;s&gt; If you don&#39;t have one already, set up a website! You can use any website making tool you want. WordPress, micro.blog, omg.lol are three of many tools that you can use without code or extensive setup. You can even make your own site with code, if you want &lt;/s&gt;Note: I used barf&lt;/li&gt;
+&lt;li&gt;Write a blog post about:&lt;/li&gt;
+&lt;li&gt;Something that interests you.&lt;/li&gt;
+&lt;li&gt;Something that brought you joy recently.&lt;/li&gt;
+&lt;li&gt;A thing you learned over the last week.&lt;/li&gt;
+&lt;li&gt;Your thoughts on a book you finished reading.&lt;/li&gt;
+&lt;li&gt;Your strategy on playing a game you like.&lt;/li&gt;
+&lt;li&gt;Or whatever else you would like to write about.&lt;/li&gt;
+&lt;li&gt;Share a recipe you made recently.&lt;/li&gt;
+&lt;li&gt; Publish a photo you took recently.&lt;/li&gt;
+&lt;li&gt; Make a &lt;a href=&quot;https://indieweb.org/blogroll&quot;&gt;blogroll&lt;/a&gt; that links to personal websites you like.&lt;/li&gt;
+&lt;li&gt; Make a robots.txt file that limits how search engines and AI crawlers can ingest your site.&lt;/li&gt;
+&lt;li&gt; Create a shrine about something that makes you happy (a band, a television show, or anything else).&lt;/li&gt;
+&lt;li&gt; Make an image map that lets someone click on parts of an image to learn more. Perhaps you could make an image map of your desk where someone can click on each object to learn more about it.&lt;/li&gt;
+&lt;li&gt; Share a list of your favourite books.&lt;/li&gt;
+&lt;li&gt; Make a movie recommendations page.&lt;/li&gt;
+&lt;li&gt; Add a dark mode that readers can enable.&lt;/li&gt;
+&lt;li&gt; &lt;s&gt;Register a domain name and use it with your website.&lt;/s&gt;
+&lt;/li&gt;
+&lt;li&gt; Add an easter egg.&lt;/li&gt;
+&lt;li&gt; Make a &lt;a href=&quot;https://indieweb.org/guestbook&quot;&gt;guestbook&lt;/a&gt; where people can leave notes saying they liked your website.&lt;/li&gt;
+&lt;li&gt; Add a background image to your website or a page on your website.&lt;/li&gt;
+&lt;li&gt; Create a scavenger hunt where people need to hunt through pages to find clues.&lt;/li&gt;
+&lt;li&gt; Leave comments in your HTML so people can understand how different templates on your site work. For example, you could annotate your &lt;code&gt;head&lt;/code&gt; tag so people looking at the code know what different meta tags do. Remember, someone may be &lt;code&gt;view-source&lt;/code&gt;ing your website who has never made a website before!&lt;/li&gt;
+&lt;li&gt; Share a list of web pages (articles, websites, blog posts, photos, games, etc.) you have enjoyed recently.&lt;/li&gt;
+&lt;li&gt; Add alt text to images that don&#39;t have them.&lt;/li&gt;
+&lt;li&gt; Use WAVE to find potential accessibility issues on different pages on your website.&lt;/li&gt;
+&lt;li&gt; &lt;s&gt;Use PageSpeed Insights to check the speed of your website. Try to make pages load faster if they currently load slow.
+	* Rated 99 out of 100 on performance (although there&#39;s not a lot of content yet)&lt;/s&gt;
+&lt;/li&gt;
+&lt;li&gt; If you publish academic works on your website, add a section that shows how people should cite your work.&lt;/li&gt;
+&lt;li&gt; Make an antilibrary where you list the books you own but have not or do not plan to read.&lt;/li&gt;
+&lt;li&gt; Make a word game.&lt;/li&gt;
+&lt;li&gt; Write about something you added to your website (#sitedocumentation!).&lt;/li&gt;
+&lt;li&gt; Write a list of words you learned recently.&lt;/li&gt;
+&lt;li&gt; Add an RSS feed so people can subscribe to your blog.&lt;/li&gt;
+&lt;li&gt; Create an &quot;on this day&quot; feature that links to blog posts you published on a given day in the past.&lt;/li&gt;
+&lt;li&gt; Add a skip link to make it easier for screen reader users to navigate your website.&lt;/li&gt;
+&lt;li&gt; Create an archive page that lists all of the posts on your website.&lt;/li&gt;
+&lt;li&gt; Create a mascot for your website.&lt;/li&gt;
+&lt;li&gt; Add an 88x31 button to your website.&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;https://hekate2.github.io/buttonmaker/&quot;&gt;Make an 88x31 button&lt;/a&gt; for your website.&lt;/li&gt;
+&lt;li&gt; Join a &lt;a href=&quot;https://indieweb.org/webring&quot;&gt;webring&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt; Translate a page on your website in another language you know or are learning.&lt;/li&gt;
+&lt;li&gt; Add a &lt;a href=&quot;https://petermolnar.net/article/how-to-make-a-print-css/&quot;&gt;print stylesheet&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt; Make sure all the links work on your website.&lt;/li&gt;
+&lt;li&gt; Start a blog carnival where you challenge friends to write about a specific topic each month. Pass on the task of choosing a topic to a new person every month.&lt;/li&gt;
+&lt;li&gt; Add &lt;a href=&quot;https://microformats.org/wiki/rel-me&quot;&gt;rel=me links&lt;/a&gt; to your other profiles on the web. Mastodon shows your website as verified with a green checkmark if your site has a rel=me link to your Mastodon profile.&lt;/li&gt;
+&lt;li&gt; Make an &lt;a href=&quot;https://rubenerd.com/omake/&quot;&gt;Omake&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt; If you want to present your work professionally on your website, add a resume page, written in HTML.&lt;/li&gt;
+&lt;li&gt; Style code snippets in posts on your blog with a syntax highlighter (i.e. Prism.js).&lt;/li&gt;
+&lt;li&gt; Review your &lt;code&gt;head&lt;/code&gt; tag contents to review scripts and tags you no longer need.&lt;/li&gt;
+&lt;li&gt; Make a search feature for your website.&lt;/li&gt;
+&lt;li&gt; Create a &lt;a href=&quot;https://nownownow.com&quot;&gt;now page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt; Add a &lt;a href=&quot;https://indieweb.org/sparkline&quot;&gt;sparkline&lt;/a&gt; that shows your post frequency.&lt;/li&gt;
+&lt;li&gt; Experiment with different fonts.&lt;/li&gt;
+&lt;li&gt; Make sure your heading sizes are not too close together.&lt;/li&gt;
+&lt;li&gt; Add an &lt;a href=&quot;https://en.wikipedia.org/wiki/Asterism_(typography&quot;&gt;asterism&lt;/a&gt;) or &lt;a href=&quot;https://en.wikipedia.org/wiki/Fleuron_(typography&quot;&gt;fleuron&lt;/a&gt;) to the end of your blog posts.&lt;/li&gt;
+&lt;li&gt; Use the &lt;a href=&quot;https://www.zachleat.com/web/youtube-embeds/&quot;&gt;lite-youtube&lt;/a&gt; web component to improve page loading speeds when you have embedded a YouTube video on the page.&lt;/li&gt;
+&lt;li&gt; Try a new colour scheme on your website.&lt;/li&gt;
+&lt;li&gt; Create a style page that shows how every HTML element you use to write content appears. Use this as a reference as you tweak content styles.&lt;/li&gt;
+&lt;li&gt; Write a quiz to share with your friends.&lt;/li&gt;
+&lt;li&gt; Add &lt;a href=&quot;https://indieweb.org/Webmention&quot;&gt;Webmention&lt;/a&gt; support to your personal website so you can receive notifications when people whose sites support Webmention (like this one!) link to or write a post in response to a blog post on your website.&lt;/li&gt;
+&lt;li&gt; Make a &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/API/Web_components&quot;&gt;web component&lt;/a&gt; for one of the parts on your website so that others can use that component on their website.&lt;/li&gt;
+&lt;li&gt; Add an effect that changes an image when you hover over it.&lt;/li&gt;
+&lt;li&gt; Add an audio recording of you saying your name or nickname so people know how to pronounce it. &lt;a href=&quot;https://jamesg.blog/assets/pronunciation.m4a&quot;&gt;Here&#39;s my name pronunciation recording&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt; Add a &lt;a href=&quot;https://indieweb.org/holiday_theme&quot;&gt;holiday theme&lt;/a&gt; for a day of significance for you.&lt;/li&gt;
+&lt;li&gt; Draw a picture and share it on your website.&lt;/li&gt;
+&lt;li&gt; Add an interactive &lt;a href=&quot;https://aaronparecki.com/&quot;&gt;pixel grid&lt;/a&gt; that people can click on your home page.&lt;/li&gt;
+&lt;li&gt; Add a &quot;&lt;a href=&quot;https://notbyai.fyi/&quot;&gt;not by AI&lt;/a&gt;&quot; button if your content is all written by you.&lt;/li&gt;
+&lt;li&gt; Share a list of your favourite podcasts.&lt;/li&gt;
+&lt;li&gt; Make a new website for something you are passionate about. Baking? Poetry? Words? Funny charts? Whatever you like!&lt;/li&gt;
+&lt;li&gt; Make a favicon for your website.&lt;/li&gt;
+&lt;li&gt; Write a blog post about the history of your personal website.&lt;/li&gt;
+&lt;li&gt; Make a page that has an audio recording playing in the background (birds chirping? background noise of people chatting?).&lt;/li&gt;
+&lt;li&gt; Make a moodboard.&lt;/li&gt;
+&lt;li&gt; Use the &lt;code&gt;details&lt;/code&gt; and &lt;code&gt;summary&lt;/code&gt; HTML elements on a page on your website.&lt;/li&gt;
+&lt;li&gt; Change the default colour that is used to highlight text on your website.&lt;/li&gt;
+&lt;li&gt; Help someone else set up a website.&lt;/li&gt;
+&lt;li&gt; Write a document that describes how your website works, for yourself (so you don&#39;t forget!). This is useful if you have made a site with code.&lt;/li&gt;
+&lt;li&gt; Write a review of a piece of art you like. Describe how it makes you feel or what it makes you think about.&lt;/li&gt;
+&lt;li&gt; Write a blog post with a friend about a shared interest.&lt;/li&gt;
+&lt;li&gt; Update an old blog post you wrote that you know needs updated.&lt;/li&gt;
+&lt;li&gt; Add &lt;a href=&quot;https://gwern.net/sidenote&quot;&gt;sidenotes&lt;/a&gt; to a blog post.&lt;/li&gt;
+&lt;li&gt; Make a table of contents for a long article you have written.&lt;/li&gt;
+&lt;li&gt; Add an icon next to external links using CSS so people know a link will take them to another site.&lt;/li&gt;
+&lt;li&gt; Add &lt;a href=&quot;https://indieweb.org/hovercard&quot;&gt;hovercards&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;</content>
+		<link href="https://barf.btxx.org/Website Plans"/>
+		<id>https://barf.btxx.org/Website Plans</id>
+		<updated>2024-03-28T10:00:00Z</updated>
+		<published>2024-03-28T10:00:00Z</published>
+	</entry>
 	<entry>
 		<title>First Post</title>
 		<content type="html">&lt;h1&gt;First Post&lt;/h1&gt;
