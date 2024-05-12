@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Daniel's Blog</title>
 	<link href="https://barf.btxx.org/atom.xml" rel="self" />
-	<updated>2024-05-12T15:21:50Z</updated>
+	<updated>2024-05-12T15:32:48Z</updated>
 	<author>
 		<name>metaknowledge</name>
 	</author>
@@ -111,55 +111,11 @@ A todo list if you will, taken from &lt;a href=&quot;https://jamesg.blog/2024/02
 		<title>Please Make D.C. a state already</title>
 		<content type="html">&lt;h1&gt;Please Make D.C. a state already&lt;/h1&gt;
 &lt;p&gt;2024-05-12&lt;/p&gt;
-&lt;p&gt;I&#39;m from Washington State, but see how I had to specify &quot;state&quot; instead of saying Washington. I hate reading &quot;from Washington&quot; only to discover that the author is implying Washington D.C. I don&#39;t care if we will have an odd number of stars on the flag. It doesn&#39;t matter what its name is, although it will probably be name Lincoln or Jefferson.&lt;/p&gt;</content>
+&lt;p&gt;I&#39;m from Washington State, but see how I had to specify &quot;state&quot; instead of saying Washington. I hate reading &quot;from Washington&quot; only to discover that the author is implying Washington D.C. I don&#39;t care if we will have an odd number of stars on the flag. It doesn&#39;t matter what its name is, although it will probably be name Lincoln or Jefferson. Also it will be funny if The Washington Post will not match the name of where its based out of.&lt;/p&gt;</content>
 		<link href="https://barf.btxx.org/Please Make D.C. a State Already"/>
 		<id>https://barf.btxx.org/Please Make D.C. a State Already</id>
 		<updated>2024-05-12T10:00:00Z</updated>
 		<published>2024-05-12T10:00:00Z</published>
-	</entry>
-	<entry>
-		<title>Gmail Labels are Not Great</title>
-		<content type="html">&lt;h1&gt;Gmail Labels are Not Great&lt;/h1&gt;
-&lt;p&gt;2024-04-12&lt;/p&gt;
-&lt;p&gt;I recently read a blog post &lt;em&gt;&lt;a href=&quot;https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags&quot;&gt;Fuck trees, use tags&lt;/a&gt;&lt;/em&gt;. Which compares the use of tags verses tree as a way to sort files, and in the article the author gives the example of Gmail as a tag system mimicking a tree. However, I don&#39;t think Gmail handles tags well. I preface that I am not an expert in tag or tree but I don&#39;t need to be a chef to know when the food tastes bad. 
-&lt;h2&gt;What Gmail does good&lt;/h2&gt;
-&lt;h3&gt;Filters&lt;/h3&gt;
-&lt;p&gt;I will complement Google on the filtering system. Every time you search in gmail you have the option to convert that search into a filter with actions such as mark it as read, star it, forward it, and most importantly apply a label to it. I use this all the time, some of the filters that I have (which can be found in Settings &amp;gt; Filter and Blocked Addresses) are
-&lt;ul&gt;
-&lt;li&gt;people using my school&#39;s email address&lt;/li&gt;
-&lt;li&gt;family member&#39;s emails&lt;/li&gt;
-&lt;li&gt;mailing lists&lt;/li&gt;
-&lt;li&gt;taxes&lt;/li&gt;
-&lt;li&gt;amazon
-Filters also make it so I don&#39;t forget to label an email.
-&lt;h3&gt;Inbox as a label&lt;/h3&gt;
-&lt;p&gt;The inbox in gmail is a label and works just like any other label. So when an email arrives its tagged with &quot;inbox&quot;.
-&lt;h3&gt;Colors&lt;/h3&gt;
-&lt;p&gt;I can choose a label color and I makes it so I can get some sense of what the email is without having to read the email. I have a label &quot;!!!NEEDSMYATTENTION&quot; for very important email and its colored red so I feel some urgency to deal with it. It also is sort.
-&lt;h3&gt;Hiding Label if there no unread&lt;/h3&gt;
-&lt;p&gt;Under Settings &amp;gt; Labels, I can set labels to hide from the left labels bar if there is no unread mail with that label. I love this because I can hide labels that are not important and keep ones that I use for quickly finding important emails.
-&lt;h2&gt;What Gmail does Bad&lt;/h2&gt;
-&lt;h3&gt;Sublabels&lt;/h3&gt;
-&lt;p&gt;They are not recursive. Let&#39;s say I have the tags:
-&lt;pre&gt;
-└── Taxes
-  └── Pay Stubs
-      └── W-2
-  └── IRS
-&lt;/pre&gt;
-Now I get an email of a W-2 form from my work, I label it with the W-2 Label. But it&#39;s not labeled with W-2 its labeled [Taxes/Pay Stubs/W-2]. Ok that fine a bit long but it works. Now I go click on the Taxes tab so I can look at all my Tax related emails, but my W-2 form is not there. Why? because labels are not recursive. So I label it Taxes and Pay Stub, but now Gmail formats it as [Taxes][Taxes/Pay Stubs][Taxes/Pay Stubs/W-2]. 
-Its ultimately my prefrence because I look at labels as Tags&lt;/p&gt;
-&lt;/p&gt;
-&lt;/p&gt;
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/p&gt;</content>
-		<link href="https://barf.btxx.org/Gmail Labels are Not Great"/>
-		<id>https://barf.btxx.org/Gmail Labels are Not Great</id>
-		<updated>2024-04-12T10:00:00Z</updated>
-		<published>2024-04-12T10:00:00Z</published>
 	</entry>
 	<entry>
 		<title>First Post</title>
