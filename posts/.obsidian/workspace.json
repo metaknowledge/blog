@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a85ee4baa1dc808",
+            "id": "782dd0cb02d2dbd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Website Plans.md",
+                "file": "Gmail Labels are Not Great.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ab069a01003bb9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Please Make D.C. a State Already.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Website Plans.md",
+                "file": "Please Make D.C. a State Already.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Website Plans.md",
+                "file": "Please Make D.C. a State Already.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Website Plans.md"
+                "file": "Please Make D.C. a State Already.md"
               }
             }
           }
@@ -146,9 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a85ee4baa1dc808",
+  "active": "1ab069a01003bb9f",
   "lastOpenFiles": [
     "First Post.md",
-    "Website Plans.md"
+    "Gmail Labels are Not Great.md",
+    "Please Make D.C. a State Already.md",
+    "Website Plans.md",
+    "Gmail labels are not great.md"
   ]
 }
