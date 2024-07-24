@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gmail Labels are Not Great.md",
+                "file": "hidden/Gmail Labels are Not Great.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,80 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Please Make D.C. a State Already.md",
+                "file": "hidden/Gmail Labels are Not Great.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d245d9fbe3710cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hidden/Feeling out of place.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c75cd171dfbae1b2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "3f6ad8d0e783f005",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "6b54b489b178cd49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "62fb1a4d1730e251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anime List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70f36d0bb2710f5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "No car no Comp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -98,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Please Make D.C. a State Already.md",
+                "file": "No car no Comp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Please Make D.C. a State Already.md",
+                "file": "No car no Comp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Please Make D.C. a State Already.md"
+                "file": "No car no Comp.md"
               }
             }
           }
@@ -159,12 +225,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ab069a01003bb9f",
+  "active": "70f36d0bb2710f5d",
   "lastOpenFiles": [
     "First Post.md",
-    "Gmail Labels are Not Great.md",
-    "Please Make D.C. a State Already.md",
+    "Anime List.md",
+    "No car no Comp.md",
+    "hidden/Feeling out of place.md",
+    "hidden/Gmail Labels are Not Great.md",
     "Website Plans.md",
+    "Please Make D.C. a State Already.md",
+    "asdfasoidhvjklasn.md",
+    "EC Blog post.md",
+    "Obsidian.png",
+    "hidden",
     "Gmail labels are not great.md"
   ]
 }

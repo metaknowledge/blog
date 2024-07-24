@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Daniel's Blog</title>
 	<link href="https://barf.btxx.org/atom.xml" rel="self" />
-	<updated>2024-05-12T15:32:48Z</updated>
+	<updated>2024-07-23T18:23:06Z</updated>
 	<author>
 		<name>metaknowledge</name>
 	</author>
@@ -118,6 +118,21 @@ A todo list if you will, taken from &lt;a href=&quot;https://jamesg.blog/2024/02
 		<published>2024-05-12T10:00:00Z</published>
 	</entry>
 	<entry>
+		<title>No Car, No Comp</title>
+		<content type="html">&lt;h1&gt;No Car, No Comp&lt;/h1&gt;
+&lt;p&gt;2024-07-21&lt;/p&gt;
+&lt;p&gt;I recently got a teaching job in Seattle. I found that the company does not compensate for commute time if you take public transportation. there reasoning is:
+&lt;ul&gt;
+&lt;li&gt;Instructors can spend their public transport time engaging in other activities, unlike if they were in a car. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;Which I hate because its discriminating based on if I can afford a car or not. I currently do not own a car. In there guidelines for getting compensated they always use &quot;commute by car&quot;. My thought is, since I ride a bike could I get compensated because I am not able to do other things when riding a bike. I would need the place to be 30 mins away to meet the requirements.&lt;/p&gt;</content>
+		<link href="https://barf.btxx.org/No car no Comp"/>
+		<id>https://barf.btxx.org/No car no Comp</id>
+		<updated>2024-07-21T10:00:00Z</updated>
+		<published>2024-07-21T10:00:00Z</published>
+	</entry>
+	<entry>
 		<title>First Post</title>
 		<content type="html">&lt;h1&gt;First Post&lt;/h1&gt;
 &lt;p&gt;2024-03-28&lt;/p&gt;
@@ -126,5 +141,101 @@ A todo list if you will, taken from &lt;a href=&quot;https://jamesg.blog/2024/02
 		<id>https://barf.btxx.org/First Post</id>
 		<updated>2024-03-28T10:00:00Z</updated>
 		<published>2024-03-28T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>Anime List</title>
+		<content type="html">&lt;h1&gt;Anime List&lt;/h1&gt;
+&lt;p&gt;2024-07-19&lt;/p&gt;
+&lt;h2&gt;AoT&lt;/h2&gt;
+&lt;p&gt;10/10
+No description needed&lt;/p&gt;
+&lt;h2&gt;Code Geass&lt;/h2&gt;
+&lt;p&gt;8/10
+I feel like this anime suffers from the same trope as Death Note. Lelouch is just portrayed as a smart character, but I didn&#39;t see alot of super smart stuff. Playing chess is not a sign of a super genius. Also the Euphemia thing was horribly written. Just read a tl;dr and learn about the ending for cultural clout.&lt;/p&gt;
+&lt;h2&gt;Darling in the Franxx&lt;/h2&gt;
+&lt;p&gt;6/10
+Evangelion nostalgia&lt;/p&gt;
+&lt;h2&gt;Death Note&lt;/h2&gt;
+&lt;p&gt;8/10
+Pretty good.&lt;/p&gt;
+&lt;h2&gt;Dr. Stone&lt;/h2&gt;
+&lt;p&gt;9/10
+Love me some science.&lt;/p&gt;
+&lt;h2&gt;Gate&lt;/h2&gt;
+&lt;p&gt;6/10
+Love me a good harem.&lt;/p&gt;
+&lt;h2&gt;Highschool DxD&lt;/h2&gt;
+&lt;p&gt;8/10
+Love me some boobies. Can&#39;t believe it got four seasons.&lt;/p&gt;
+&lt;h2&gt;In Another World with my Smartphone&lt;/h2&gt;
+&lt;p&gt;1/10
+Lol&lt;/p&gt;
+&lt;h2&gt;Kill la Kill&lt;/h2&gt;
+&lt;p&gt;10/10
+Such a great funny anime.&lt;/p&gt;
+&lt;h2&gt;Made in Abyss&lt;/h2&gt;
+&lt;p&gt;10/10
+the mangaka needs to get his shit together and finish this before he dies. Can&#39;t believe he is color blind. Nanachi and Faputa is so cute.&lt;/p&gt;
+&lt;h2&gt;Mushoku Tensei&lt;/h2&gt;
+&lt;p&gt;10/10
+Great world building.&lt;/p&gt;
+&lt;h2&gt;Evangelion&lt;/h2&gt;
+&lt;p&gt;10/10 
+Require reading&lt;/p&gt;
+&lt;h2&gt;No Game, No Life&lt;/h2&gt;
+&lt;p&gt;7/10
+The more I look back the less I like it.&lt;/p&gt;
+&lt;h2&gt;One Punch Man&lt;/h2&gt;
+&lt;p&gt;10/10
+Require reading&lt;/p&gt;
+&lt;h2&gt;Ranking of Kings&lt;/h2&gt;
+&lt;p&gt;8/10
+some superb animation and story. Pacing is awful, you had 23 episodes and that&#39;s it?&lt;/p&gt;
+&lt;h2&gt;Saga of Tanya the Evil&lt;/h2&gt;
+&lt;p&gt;6/10 
+Nazi role play.&lt;/p&gt;
+&lt;h2&gt;Steins;Gate&lt;/h2&gt;
+&lt;p&gt;8/10
+Probably revolutionary for a time travel story in 2011, probably could have gone more extreme. The microwave explanation is stupid.&lt;/p&gt;
+&lt;h2&gt;The World&#39;s Finest Assassin Gets Reincarnated in Another World as an Aristocrat&lt;/h2&gt;
+&lt;p&gt;6/10 
+LEGALIZE NUCLEAR BOMBS!&lt;/p&gt;
+&lt;h2&gt;Wonder Egg Priority&lt;/h2&gt;
+&lt;p&gt;8/10
+Sad&lt;/p&gt;
+&lt;h2&gt;Deadman Wonderland&lt;/h2&gt;
+&lt;p&gt;Unfinished
+I tried watch this anime twice. Just couldn&#39;t do it.&lt;/p&gt;
+&lt;h2&gt;Kabaneri of the Iron Fortress&lt;/h2&gt;
+&lt;p&gt;Unfinished
+Attack on Titan -esqe&lt;/p&gt;
+&lt;h2&gt;Chainsaw Man&lt;/h2&gt;
+&lt;p&gt;Unwatch
+Read the manga. Waiting for the anime to release the reze arc to watch. Power best girl.&lt;/p&gt;
+&lt;h2&gt;Dungeon Meshi&lt;/h2&gt;
+&lt;p&gt;10/10
+Bestest world building, great character design. love trigger.&lt;/p&gt;
+&lt;h2&gt;I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability&lt;/h2&gt;
+&lt;p&gt;1/10
+Isekai trash. Is this rated as a kids show because that&#39;s the animation quality I was getting, but also very sexual for a kids show. Who is this for?&lt;/p&gt;
+&lt;h2&gt;As a Reincarnated Aristocrat, I&#39;ll Use My Appraisal Skill to Rise in the World&lt;/h2&gt;
+&lt;p&gt;Unfinished
+Horrible.&lt;/p&gt;
+&lt;h2&gt;Solo Leveling&lt;/h2&gt;
+&lt;p&gt;1/10
+Finished the anime went and read the manga. No story. The main character almost never struggles, and never fails. Could catch up with the manga because it was just the same loop of fight and get way stronger than before. near the end I was just so confused by why I was even reading the manga.&lt;/p&gt;
+&lt;h2&gt;Mashle&lt;/h2&gt;
+&lt;p&gt;7/10
+Anime Harry Potter without the transphobia. Not great. The thought that the main character doesn&#39;t have any magic abilities is amazing, but they never have a better solution besides &quot;Punch the problem even harder than before&quot;. &lt;/p&gt;
+&lt;h2&gt;Undead Unluck&lt;/h2&gt;
+&lt;p&gt;9/10
+Absurd plot that I like.&lt;/p&gt;
+&lt;h2&gt;Great Pretender&lt;/h2&gt;
+&lt;p&gt;10/10
+you should go watch this one. Love Trigger.&lt;/p&gt;</content>
+		<link href="https://barf.btxx.org/Anime List"/>
+		<id>https://barf.btxx.org/Anime List</id>
+		<updated>2024-07-19T10:00:00Z</updated>
+		<published>2024-07-19T10:00:00Z</published>
 	</entry>
 </feed>
