@@ -1,4 +1,4 @@
-# PirateSoftware is summation of the internet
+# PirateSoftware the is summation of the internet
 
 2024-30-7
 
