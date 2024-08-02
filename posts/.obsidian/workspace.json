@@ -96,9 +96,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "639b5150c1d39f3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PirateSoftware is summation of the internet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1398e5d48d37515b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hidden/Cliche of Autistic \"Super-Genius\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -164,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "No car no Comp.md",
+                "file": "hidden/Cliche of Autistic \"Super-Genius\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "No car no Comp.md",
+                "file": "hidden/Cliche of Autistic \"Super-Genius\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "No car no Comp.md"
+                "file": "hidden/Cliche of Autistic \"Super-Genius\".md"
               }
             }
           }
@@ -225,15 +249,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70f36d0bb2710f5d",
+  "active": "a13c696c169f9875",
   "lastOpenFiles": [
+    "PirateSoftware is summation of the internet.md",
+    "hidden/Cliche of Autistic \"Super-Genius\".md",
+    "Please Make D.C. a State Already.md",
+    "No car no Comp.md",
     "First Post.md",
     "Anime List.md",
-    "No car no Comp.md",
     "hidden/Feeling out of place.md",
     "hidden/Gmail Labels are Not Great.md",
     "Website Plans.md",
-    "Please Make D.C. a State Already.md",
     "asdfasoidhvjklasn.md",
     "EC Blog post.md",
     "Obsidian.png",
