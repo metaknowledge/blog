@@ -98,6 +98,10 @@ while read -r f title created; do
 	write_page "$f" "$title" "$created"
 done < build/posts.tsv
 
+
+# add ai.txt
+cp ai.txt build/
+
 # Pages
 index_tsv pages > build/pages.tsv
 while read -r f title created; do
