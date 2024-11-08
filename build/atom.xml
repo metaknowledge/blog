@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Daniel's Blog</title>
 	<link href="https://barf.btxx.org/atom.xml" rel="self" />
-	<updated>2024-09-13T09:48:08Z</updated>
+	<updated>2024-11-07T20:43:50Z</updated>
 	<author>
 		<name>metaknowledge</name>
 	</author>
 	<id>https://barf.btxx.org,2024-01-19:default-atom-feed/</id>
+	<entry>
+		<title>Youtube</title>
+		<content type="html">&lt;h1&gt;Youtube&lt;/h1&gt;
+&lt;p&gt;2024-11-07&lt;/p&gt;
+&lt;p&gt;I love youtube. It is probably my biggest activity. Like if you tracked everything I did that&#39;s not sleeping or eating then Youtube would be at the top. And I don&#39;t think that&#39;s super bad or a sign of the downfall of civilization. But I&#39;ve changed how I consume Youtube recently and I want to share why.
+I&#39;ve watch a lot of videos about how you brain is a dopamine addicted addicted who only needs to use one more app, program, mediation technique, or some other snake oil thingamabob. The reality of it is that the only way I will stop watching youtube is that I stop going on the internet, cuz like what else is there? Yeah I read some lobste.rs posts or checking my emails, but that&#39;s not entertainment. I watch youtube the same way I use to watch tv. The relative ease and conveniency of youtube is much different than tv, but it basically the same. I do get a lot out of my youtube watching, and I&#39;ve learned that I will never get rid of it, but I have found ways to use youtube a healthy way.
+Now I should mention that I have a nebula subscription and I like to browse that sometimes, but the platform is not trying for you to stay for hours on end, and as of right now the creator size is relatively small.&lt;br /&gt;  
+First let&#39;s talk about not youtube. I have an instagram and reddit account, I don&#39;t have the app on my phone. I have tried and succeeded in removing them from my daily habits. To anyone who also wants to get rid of those habits I would recommend deleting the app, and installing &lt;em&gt;not&lt;/em&gt; a app blocker but an app &lt;em&gt;redirector&lt;/em&gt;. Redirect where? to youtube! I still have a tick of typing &#39;re&#39; when I open firefox because it used to like to reddit but now is kind of a horribly inefficient way to get to youtube(in fact I just added a youtube bookmark with &#39;re&#39; as a bookmark shortcut which you can do in firefox). I have tried with website blockers but they just don&#39;t work, this way your still occupied, and are less likely to use reddit or another program that is worse than youtube.
+Now about youtube, I like enhancer for youtube as you can change the speed from 0.1 to &amp;gt;2 speed up for youtube videos which is just really nice. You might be expecting this but I use &#39;UnTrap for youtube&#39;. Which lets you customize the ui. The most important setting you must change is &lt;strong&gt;removing thumbnails&lt;/strong&gt;. It has helped not be sucked into a doom scroll. The second most important setting is removing recommendations, and redirecting from the home page to your subscriptions. I grew up when youtube subscriptions got less and less important in favor of the &lt;strong&gt;the algorithm&lt;/strong&gt;&lt;sup&gt;tm&lt;/sup&gt;, however I&#39;ve started building up a large subscription list, because when you don&#39;t have recommendations the only way to watch videos is to subscribe to people crazy right?.
+There&#39;s also other stuff you can adjust with Untrap, like youtube shorts but I won&#39;t get to deep into my config options. I think having no thumbnails and also curating a good list of channels make youtube a more health platform not only for me but also for other channels.&lt;/p&gt;</content>
+		<link href="https://barf.btxx.org/Youtube"/>
+		<id>https://barf.btxx.org/Youtube</id>
+		<updated>2024-11-07T10:00:00Z</updated>
+		<published>2024-11-07T10:00:00Z</published>
+	</entry>
 	<entry>
 		<title>Website Plans</title>
 		<content type="html">&lt;h1&gt;Website Plans&lt;/h1&gt;
@@ -151,6 +166,27 @@ A todo list if you will, taken from &lt;a href=&quot;https://jamesg.blog/2024/02
 		<id>https://barf.btxx.org/First Post</id>
 		<updated>2024-03-28T10:00:00Z</updated>
 		<published>2024-03-28T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>Feeling out of Place</title>
+		<content type="html">&lt;h1&gt;Feeling out of Place&lt;/h1&gt;
+&lt;p&gt;2024-04-12&lt;/p&gt;
+&lt;p&gt;I often find myself visiting &lt;a href=&quot;https://www.dictionaryofobscuresorrows.com/&quot;&gt;The dictionary of Obscure Sorrows&lt;/a&gt; which I probably found from some post on r/InternetIsBeautiful. I really relate to some of the words on there. But the site doesn&#39;t have a function to look at random words, so I&#39;m always scrolling past words I&#39;ve looked at before. There are 119 pages, and I don&#39;t want to scroll for that long. I want to express a feeling that I think would have a definition on the dictionary.
+I when to a Blues Traveler concert this weekend, and was granted backstage access because I knew someone who was related to someone in the band. I really like Blues Traveler, and I was so anxious walking around behind the stage. Super great experience and I even meet some members of the band. Anyways while doing all of this I had the worst &quot;feeling of out of place&quot;-ness. Like the only reason I&#39;m here is because I just knew someone, and I didn&#39;t feel like I deserved this treatment, similar to an impostor syndrome. I was displacing time in these artist lives that I felt like I shouldn&#39;t have been. Why should they even know me? It kind of like how celebrities talk about if they gave every fan their full attention then they wouldn&#39;t have enough time in the day. And here I am taking up what would be an extremely expensive experience for free. Kind of like if you have a para-social relationship, but you actually get to meet the person. But I am so happy that I got to be their anyways. I wish I knew of a word to describe this feeling. &lt;/p&gt;</content>
+		<link href="https://barf.btxx.org/Feeling out of place"/>
+		<id>https://barf.btxx.org/Feeling out of place</id>
+		<updated>2024-04-12T10:00:00Z</updated>
+		<published>2024-04-12T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>Cliche of Autistic "Super-Genius"</title>
+		<content type="html">&lt;h1&gt;Cliche of Autistic &quot;Super-Genius&quot;&lt;/h1&gt;
+&lt;p&gt;2024-08-01&lt;/p&gt;
+&lt;p&gt;In Hollywood there is this cliche of an autistic person who is a genius, usually a math or physics genius. Like Sheldon Cooper (boo) or that guy from the good doctor (also boo). These people do exist in real life, although not as played up as some TV shows or movies show it to be. I have an opinion about how people see these stereotypes. Most people think that the genius comes from them being autistic, like its a genetic trait. While intelligence does have a genetic component, for the most part everyone can learn any knowledge. The only limiting factor for someone to be knowledgeable is putting in the effort. I do believe that anyone can learn a field of mathematics, but most people are not going to benefit from it and therefore will not pursue learning it. Coming back to autism, Autistic people have special interests in thing that give them motivation to learn which makes them smarter. People look at that and think its somehow linked to ASD and not acknowledging the hard work that was put in to get smarter.&lt;/p&gt;</content>
+		<link href="https://barf.btxx.org/Cliche of Autistic "Super-Genius""/>
+		<id>https://barf.btxx.org/Cliche of Autistic "Super-Genius"</id>
+		<updated>2024-08-01T10:00:00Z</updated>
+		<published>2024-08-01T10:00:00Z</published>
 	</entry>
 	<entry>
 		<title>Anime List</title>
