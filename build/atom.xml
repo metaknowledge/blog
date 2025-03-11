@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Daniel's Blog</title>
 	<link href="https://barf.btxx.org/atom.xml" rel="self" />
-	<updated>2025-02-25T23:24:01Z</updated>
+	<updated>2025-03-10T21:20:02Z</updated>
 	<author>
 		<name>metaknowledge</name>
 	</author>
@@ -67,7 +67,8 @@ A todo list if you will, taken from &lt;a href=&quot;https://jamesg.blog/2024/02
 &lt;li&gt; Make a word game.&lt;/li&gt;
 &lt;li&gt; Write about something you added to your website (#sitedocumentation!).&lt;/li&gt;
 &lt;li&gt; Write a list of words you learned recently.&lt;/li&gt;
-&lt;li&gt; Add an RSS feed so people can subscribe to your blog.&lt;/li&gt;
+&lt;li&gt; &lt;s&gt;Add an RSS feed so people can subscribe to your blog.&lt;/s&gt;
+&lt;/li&gt;
 &lt;li&gt; Create an &quot;on this day&quot; feature that links to blog posts you published on a given day in the past.&lt;/li&gt;
 &lt;li&gt; Add a skip link to make it easier for screen reader users to navigate your website.&lt;/li&gt;
 &lt;li&gt; Create an archive page that lists all of the posts on your website.&lt;/li&gt;
@@ -165,8 +166,9 @@ link: https://www.youtube.com/watch?v=HcXu4_K1tMQ&lt;/p&gt;</content>
 		<title>Going Grocery Shopping on a Bicycle</title>
 		<content type="html">&lt;h1&gt;Going Grocery Shopping on a Bicycle&lt;/h1&gt;
 &lt;p&gt;2025-01-16&lt;/p&gt;
-&lt;p&gt;I&#39;ve got a car. I had a car for about 4 months now, and I never drive it. For reference I&#39;m currently in college in seattle. Its so easy to take a bus or use the light rail to get places that I didn&#39;t have a car for three years. The only time I was in a car was to go skiing on the weekends in winter. Even then it wasn&#39;t my car it was someone else&#39;s, and the only reason I got one was so I could be that person carpooling my friends up to the mountain. 
-Getting groceries are a challenge without a car. Most grocery stores are not built for people to walk or bike up to, even in seattle. Riding a bike has helped me in ways I wasn&#39;t expecting. For one I buy less because I can only fit so much in a 40 litre backpack (I recommend a hiking backpack from rei). I also don&#39;t drink as much milk anymore because hauling a gallon or half gallon of milk is heavy.&lt;/p&gt;</content>
+&lt;p&gt;I&#39;ve got a car. I had a car for about 4 months now, and I never drive it. For reference I&#39;m currently in college in seattle. Its so easy to take a bus or use the light rail to get places, and I didn&#39;t have a car for three years. The only time I was in a car was to go skiing on the weekends in winter. Even then it wasn&#39;t my car it was someone else&#39;s, and the only reason I got one was so I could be that person carpooling my friends up to the mountain. 
+Getting groceries are a challenge without a car. Most grocery stores are not pandering for people to walk or bike to, even in seattle. My local QFC has one single bike rack, and I could probably tie 5 bikes to it. But compare that to the parking lot right next to it with 100-200 spots, like wtf. Anyways the bike rack never files up so it doesn&#39;t really matter.
+I think going grocery shopping with a bike is a better experience that with a car. For one I buy less because I can only fit so much in a 40 litre backpack (I recommend a hiking backpack from rei). I also don&#39;t drink as much milk anymore because hauling a gallon or half gallon of milk is awful.&lt;/p&gt;</content>
 		<link href="https://barf.btxx.org/Going Grocery Shopping on a Bicycle"/>
 		<id>https://barf.btxx.org/Going Grocery Shopping on a Bicycle</id>
 		<updated>2025-01-16T10:00:00Z</updated>

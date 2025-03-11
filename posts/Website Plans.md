@@ -38,7 +38,7 @@ A todo list if you will, taken from [this blog post](https://jamesg.blog/2024/02
 30. Make a word game.
 31. Write about something you added to your website (#sitedocumentation!).
 32. Write a list of words you learned recently.
-33. Add an RSS feed so people can subscribe to your blog.
+33. <s>Add an RSS feed so people can subscribe to your blog.</s>
 34. Create an "on this day" feature that links to blog posts you published on a given day in the past.
 35. Add a skip link to make it easier for screen reader users to navigate your website.
 36. Create an archive page that lists all of the posts on your website.
