@@ -1,6 +1,7 @@
 build:
 	sh ./barf
 	rsync -r public/ build/public
+	cp -R build/  docs/
 
 clean:
 	rm -rf build/*

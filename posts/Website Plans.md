@@ -5,7 +5,7 @@
 - - -
 
 A todo list if you will, taken from [this blog post](https://jamesg.blog/2024/02/19/personal-website-ideas/). 
-1. <s> If you don't have one already, set up a website! You can use any website making tool you want. WordPress, micro.blog, omg.lol are three of many tools that you can use without code or extensive setup. You can even make your own site with code, if you want </s>Note: I used barf
+1. <s> If you don't have one already, set up a website! You can use any website making tool you want. WordPress, micro.blog, omg.lol are three of many tools that you can use without code or extensive setup. You can even make your own site with code, if you want </s>  Note: I used barf
 2. Write a blog post about:
 3. Something that interests you.
 4. Something that brought you joy recently.
@@ -16,7 +16,7 @@ A todo list if you will, taken from [this blog post](https://jamesg.blog/2024/02
 9. Share a recipe you made recently.
 10. Publish a photo you took recently.
 11. Make a [blogroll](https://indieweb.org/blogroll) that links to personal websites you like.
-12. Make a robots.txt file that limits how search engines and AI crawlers can ingest your site.
+12. <s>Make a robots.txt file that limits how search engines and AI crawlers can ingest your site.</s>
 13. Create a shrine about something that makes you happy (a band, a television show, or anything else).
 14. Make an image map that lets someone click on parts of an image to learn more. Perhaps you could make an image map of your desk where someone can click on each object to learn more about it.
 15. Share a list of your favourite books.
