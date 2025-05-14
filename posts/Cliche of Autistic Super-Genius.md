@@ -1,4 +1,4 @@
-# Cliche of Autistic "Super-Genius"
+# Cliche of Autistic Super-Genius
 
 2024-08-01
 
