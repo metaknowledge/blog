@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Daniel's Blog</title>
 	<link href="https://barf.btxx.org/atom.xml" rel="self" />
-	<updated>2025-05-19T17:07:55Z</updated>
+	<updated>2025-07-09T18:07:47Z</updated>
 	<author>
-		<name>metaknowledge</name>
+		<name>Daniel Hughes</name>
 	</author>
 	<id>https://barf.btxx.org,2024-01-19:default-atom-feed/</id>
 	<entry>
@@ -138,6 +138,16 @@ A todo list if you will, taken from &lt;a href=&quot;https://jamesg.blog/2024/02
 		<published>2024-05-12T10:00:00Z</published>
 	</entry>
 	<entry>
+		<title>Please Dont Save Powerpoints as PDFs</title>
+		<content type="html">&lt;h1&gt;Please Dont Save Powerpoints as PDFs&lt;/h1&gt;
+&lt;p&gt;2025-06-03&lt;/p&gt;
+&lt;p&gt;Omg I just downloaded a powerpoint with what should be maybe 30-40 slides, the pdf was 223 pages. Please remove the animations or just save it as a .pptx files.&lt;/p&gt;</content>
+		<link href="https://barf.btxx.org/Please Dont Save Powerpoints as PDFs"/>
+		<id>https://barf.btxx.org/Please Dont Save Powerpoints as PDFs</id>
+		<updated>2025-06-03T10:00:00Z</updated>
+		<published>2025-06-03T10:00:00Z</published>
+	</entry>
+	<entry>
 		<title>No Car, No Comp</title>
 		<content type="html">&lt;h1&gt;No Car, No Comp&lt;/h1&gt;
 &lt;p&gt;2024-07-21&lt;/p&gt;
@@ -200,8 +210,8 @@ I when to a Blues Traveler concert this weekend, and was granted backstage acces
 		<title>Blank Major is a Ponzi Scheme</title>
 		<content type="html">&lt;h1&gt;Blank Major is a Ponzi Scheme&lt;/h1&gt;
 &lt;p&gt;2025-05-19&lt;/p&gt;
-&lt;p&gt;I heard this yesterday from an amath major talking about about pure math. I&#39;ve heard this online almost about every major, but most of the talk is about humanities. I think this is some real stupid shit. It promotes anti-intellectualism. Can&#39;t we just learn things for the sake of learning things? If a person has a real interest in learning Latin even though its a dead language they should still follow that interest. Good things do come out of people learning a dead language, but we don&#39;t even need things to have a purpose to learn about them. Just because engineering can make shit doesn&#39;t make English majors any less important. Honestly majors like psychology are more important that aerospace engineering because their not about to go design missiles.
-Anyone who says stuff like this is trying to demoralize people about higher education. Learning this is good.&lt;/p&gt;</content>
+&lt;p&gt;I heard this yesterday from an amath major talking about pure math. I&#39;ve heard this online about almost every major, but most of it is at the humanities. I think this is some real stupid shit. It promotes anti-intellectualism. Can&#39;t we just learn things for the sake of learning things? If a person has a real interest in learning Latin even though its a dead language they should still go for it. Good things do come out of people learning a dead language. Certain (conservative) people think that a major has to be useful to be valuable. We don&#39;t need things to have a purpose to learn about them. Just because engineering can make shit doesn&#39;t make English majors any less important. Honestly majors like psychology are more important that aerospace engineering because they&#39;re not about to go off and design missiles.
+Anyone who says stuff like this is trying to demoralize people about higher education. Learning stuff is good.&lt;/p&gt;</content>
 		<link href="https://barf.btxx.org/Blank Major is a Ponzi Sceme"/>
 		<id>https://barf.btxx.org/Blank Major is a Ponzi Sceme</id>
 		<updated>2025-05-19T10:00:00Z</updated>
