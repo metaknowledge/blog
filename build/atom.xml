@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Daniel's Blog</title>
 	<link href="https://barf.btxx.org/atom.xml" rel="self" />
-	<updated>2025-08-21T13:56:58Z</updated>
+	<updated>2025-08-27T10:47:15Z</updated>
 	<author>
 		<name>Daniel Hughes</name>
 	</author>
@@ -350,5 +350,21 @@ I wonder if my english teacher can tell if someone wrote a their paper with AI.&
 		<id>https://barf.btxx.org/AI voice</id>
 		<updated>2024-09-13T10:00:00Z</updated>
 		<published>2024-09-13T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>25 years of websites</title>
+		<content type="html">&lt;h1&gt;25 years of websites&lt;/h1&gt;
+&lt;p&gt;2025-08-27&lt;/p&gt;
+&lt;p&gt;In my time at UW, I was the president of both husky winter sports (HWS) and university kayak club(UKC). Both clubs have been around for a long time, HWS is actually the oldest currently active club at UW. UW IT offers free website hosting for every student and student organization. Both HWS and UKC have been making websites for the past twenty five years, which is amazing. I was able to rediscover these files in the web hosting server, and have been restoring them to document the history. I think I show a picture of how website development has changed over the years.&lt;/p&gt;
+&lt;p&gt;If you&#39;d like to check out the websites:&lt;/p&gt;
+&lt;p&gt;UKC:
+&lt;a href=&quot;https://students.washington.edu/ukc/&quot;&gt;https://students.washington.edu/ukc/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;HWS:
+&lt;a href=&quot;https://students.washington.edu/huskyws/&quot;&gt;https://students.washington.edu/huskyws/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;ve made index pages for every website, and tried to fix any broken links/pictures.&lt;/p&gt;</content>
+		<link href="https://barf.btxx.org/25 years of websites"/>
+		<id>https://barf.btxx.org/25 years of websites</id>
+		<updated>2025-08-27T10:00:00Z</updated>
+		<published>2025-08-27T10:00:00Z</published>
 	</entry>
 </feed>
