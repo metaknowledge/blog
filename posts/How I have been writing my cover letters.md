@@ -42,3 +42,5 @@ So all I have to do is run
 and my cover letter is written to Hughes_Cover_Letter2025_Company_Name.pdf
 This could be extended to have more variables if I wanted to make it more *personalized* to each company, but I don't want to right now. 
 Most of the time it takes about one minute to write some extra stuff in the latex file, and then I make it in an extra 15 seconds. Its not great but is enough for me.
+
+I want to stress that I don't use AI to write any part of anything. All of this has come out of my brain.

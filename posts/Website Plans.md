@@ -10,7 +10,7 @@ A todo list if you will, taken from [this blog post](https://jamesg.blog/2024/02
 3. Something that interests you.
 4. Something that brought you joy recently.
 5. A thing you learned over the last week.
-6. Your thoughts on a book you finished reading.
+6. <s>Your thoughts on a book you finished reading.</s>
 7. Your strategy on playing a game you like.
 8. Or whatever else you would like to write about.
 9. Share a recipe you made recently.
@@ -25,11 +25,11 @@ A todo list if you will, taken from [this blog post](https://jamesg.blog/2024/02
 18. <s>Register a domain name and use it with your website.</s>
 19. Add an easter egg.
 20. Make a [guestbook](https://indieweb.org/guestbook) where people can leave notes saying they liked your website.
-21. Add a background image to your website or a page on your website.
+21. <s>Add a background image to your website or a page on your website.</s>
 22. Create a scavenger hunt where people need to hunt through pages to find clues.
-23. Leave comments in your HTML so people can understand how different templates on your site work. For example, you could annotate your `head` tag so people looking at the code know what different meta tags do. Remember, someone may be `view-source`ing your website who has never made a website before!
+23. <s>Leave comments in your HTML so people can understand how different templates on your site work. For example, you could annotate your `head` tag so people looking at the code know what different meta tags do. Remember, someone may be `view-source`ing your website who has never made a website before!</s>
 24. Share a list of web pages (articles, websites, blog posts, photos, games, etc.) you have enjoyed recently.
-25. Add alt text to images that don't have them.
+25. <s>Add alt text to images that don't have them.</s>
 26. Use WAVE to find potential accessibility issues on different pages on your website.
 27. <s>Use PageSpeed Insights to check the speed of your website. Try to make pages load faster if they currently load slow.</s>
 	* Rated 99 out of 100 on performance (although there's not a lot of content yet)
@@ -40,10 +40,10 @@ A todo list if you will, taken from [this blog post](https://jamesg.blog/2024/02
 32. Write a list of words you learned recently.
 33. <s>Add an RSS feed so people can subscribe to your blog.</s>
 34. Create an "on this day" feature that links to blog posts you published on a given day in the past.
-35. Add a skip link to make it easier for screen reader users to navigate your website.
+35. <s>Add a skip link to make it easier for screen reader users to navigate your website.</s>
 36. Create an archive page that lists all of the posts on your website.
 37. Create a mascot for your website.
-38. Add an 88x31 button to your website.
+38. <s>Add an 88x31 button to your website.</s>
 39. [Make an 88x31 button](https://hekate2.github.io/buttonmaker/) for your website.
 40. Join a [webring](https://indieweb.org/webring).
 41. Translate a page on your website in another language you know or are learning.
