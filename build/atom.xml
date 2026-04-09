@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Daniel's Blog</title>
 	<link href="https://barf.btxx.org/atom.xml" rel="self" />
-	<updated>2025-11-28T11:05:11Z</updated>
+	<updated>2026-04-09T16:32:12Z</updated>
 	<author>
 		<name>Daniel Hughes</name>
 	</author>
@@ -176,6 +176,22 @@ There&amp;#8217;s also other stuff you can adjust with Untrap, like youtube shor
 		<id>https://barf.btxx.org/No car, no Comp</id>
 		<updated>2024-07-21T10:00:00Z</updated>
 		<published>2024-07-21T10:00:00Z</published>
+	</entry>
+	<entry>
+		<title>Maybe I Should Have Gotten a CS Degree</title>
+		<content type="html">&lt;h1 id=&quot;maybeishouldhavegottenacsdegree&quot;&gt;Maybe I Should Have Gotten a CS Degree&lt;/h1&gt;
+
+&lt;p&gt;2026&amp;#8211;04&amp;#8211;09&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;When I was in elementary school my class had to take on of those online career assessments. The questions it asked weren&amp;#8217;t really that deep like &amp;#8220;Do you like working with computers&amp;#8221;. Which I obviously said very much. An low an behold the result was Software Engineer. The little factoid it stated was that there was going to be millions more of Software Engineering jobs in the next 10 years. I guess it was right since there was an explosion of jobs during the pandemic. I thought, which I was told by others, that I won&amp;#8217;t need a CS degree to get into tech; a Mathematics or Physics would be plenty. With many people telling me that they work with someone who doesn&amp;#8217;t have a CS degree.
+AI hype really changed all of that(for the worse).
+I started looking for a job in the last quarter of college which is now about 9 months ago. I got really close two days ago and had an interview scheduled, but day of they cancelled because someone they made an offer to accepted, and the position was now filled. I&amp;#8217;m now reaching the time-frame where I can&amp;#8217;t apply to new-grad positions because I am not really a new grad. There are still open jobs that don&amp;#8217;t require experience, and the cancelled interview shows that I could still get something. But after 9 months of searching I can&amp;#8217;t help but wonder what would be if I had gotten a CS degree.&lt;/p&gt;</content>
+		<link href="https://barf.btxx.org/Maybe I Should Have Gotten a CS Degree"/>
+		<id>https://barf.btxx.org/Maybe I Should Have Gotten a CS Degree</id>
+		<updated>2026-04-09T10:00:00Z</updated>
+		<published>2026-04-09T10:00:00Z</published>
 	</entry>
 	<entry>
 		<title>I should have seen it coming</title>
