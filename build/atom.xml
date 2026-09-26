@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Daniel's Blog</title>
 	<link href="https://barf.btxx.org/atom.xml" rel="self" />
-	<updated>2026-04-09T16:32:12Z</updated>
+	<updated>2026-09-26T10:56:12Z</updated>
 	<author>
 		<name>Daniel Hughes</name>
 	</author>
@@ -136,6 +136,30 @@ There&amp;#8217;s also other stuff you can adjust with Untrap, like youtube shor
 		<published>2024-03-28T10:00:00Z</published>
 	</entry>
 	<entry>
+		<title>Tedium in Programming</title>
+		<content type="html">&lt;h1 id=&quot;tediuminprogramming&quot;&gt;Tedium in Programming&lt;/h1&gt;
+
+&lt;p&gt;2026&amp;#8211;09&amp;#8211;26&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I&amp;#8217;ve been reading many articles often relating to LLM usage or LLM disclosures. For many people taking the &amp;#8220;middle ground&amp;#8221; on their options about generative technology, I see the same phrase repeated over and over.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It&amp;#8217;s OK to use AI to do the tedious work.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I ask myself, what part of programming is tedious? Are you talking about the coding? If there is ever a situation that I&amp;#8217;m coding, and I find myself doing tedious work it&amp;#8217;s often a chance to improve my situation rather than the moment to hand that work over to an LLM. In fact that&amp;#8217;s suppose to be the fun part! Automating or Optimizing tedious work is fun! I see boilerplate used as an example, write &lt;a href=&quot;https://github.com/SirVer/ultisnips&quot;&gt;snippets&lt;/a&gt; or macros or code generators or something entirely new. Writing tests is often seen as lesser than, but I actually like doing that because A. it helps me understand my own code better, and B. catches bugs while I&amp;#8217;m writing the test. A testing framework should make writing a test easy, sometimes it doesn&amp;#8217;t, which tells me that I should improve the testing environment, not that writing tests is bad.&lt;/p&gt;
+
+&lt;p&gt;These computer things(as in the computer itself) are suppose to work for us, not make us loose are brains.&lt;/p&gt;
+
+&lt;p&gt;I had a discussion with Software Engineer friend who works at &lt;em&gt;Microsoft&lt;/em&gt; about search engines, and degrading quality of them. I was complaining about how a search engine will display a web based implementation of a tool rather than the tool that website is probably using, e.g. pdf editing, yt-dlp, network tools. My friend recommended asking an LLM instead. Which I mumbled, and half-heartedly agreed. Thing is, he&amp;#8217;s right, an LLM would probably give a better response, and would remove the &lt;strong&gt;tedium&lt;/strong&gt; of having to find it myself using DuckDuckGo. Appending &amp;#8220;bash&amp;#8221; or &amp;#8220;linux&amp;#8221; or &amp;#8220;stack overflow&amp;#8221; on to all of my searches. However, instead of doing that I have increasingly taken to using other bespoke search enigines like &lt;a href=&quot;https://marginalia-search.com/&quot;&gt;marginalia search&lt;/a&gt;, &lt;a href=&quot;https://search.nixos.org/packages&quot;&gt;the Nix package repository&lt;/a&gt;, or just using specific website&amp;#8217;s search tools like &lt;a href=&quot;https://en.cppreference.com/&quot;&gt;cppreference.com&lt;/a&gt; which also has a &lt;a href=&quot;https://duckduckgo.com/bangs&quot;&gt;bang&lt;/a&gt;. These produce better more specific results, and does not suffer from SEO optimization. Google, the ad company, has decided to side with the ads, and make searching worse, inorder to sell more ads. As a consequence Google made LLM more appealing as a method of discovery. However we cannot offload research onto a compression algrorithm in a trenchcoat. Research is not tedious work.&lt;/p&gt;</content>
+		<link href="https://barf.btxx.org/Tedium in Programming"/>
+		<id>https://barf.btxx.org/Tedium in Programming</id>
+		<updated>2026-09-26T10:00:00Z</updated>
+		<published>2026-09-26T10:00:00Z</published>
+	</entry>
+	<entry>
 		<title>Please Make D.C. a state already</title>
 		<content type="html">&lt;h1 id=&quot;pleasemaked.c.astatealready&quot;&gt;Please Make D.C. a state already&lt;/h1&gt;
 
@@ -187,7 +211,10 @@ There&amp;#8217;s also other stuff you can adjust with Untrap, like youtube shor
 
 &lt;p&gt;When I was in elementary school my class had to take on of those online career assessments. The questions it asked weren&amp;#8217;t really that deep like &amp;#8220;Do you like working with computers&amp;#8221;. Which I obviously said very much. An low an behold the result was Software Engineer. The little factoid it stated was that there was going to be millions more of Software Engineering jobs in the next 10 years. I guess it was right since there was an explosion of jobs during the pandemic. I thought, which I was told by others, that I won&amp;#8217;t need a CS degree to get into tech; a Mathematics or Physics would be plenty. With many people telling me that they work with someone who doesn&amp;#8217;t have a CS degree.
 AI hype really changed all of that(for the worse).
-I started looking for a job in the last quarter of college which is now about 9 months ago. I got really close two days ago and had an interview scheduled, but day of they cancelled because someone they made an offer to accepted, and the position was now filled. I&amp;#8217;m now reaching the time-frame where I can&amp;#8217;t apply to new-grad positions because I am not really a new grad. There are still open jobs that don&amp;#8217;t require experience, and the cancelled interview shows that I could still get something. But after 9 months of searching I can&amp;#8217;t help but wonder what would be if I had gotten a CS degree.&lt;/p&gt;</content>
+I started looking for a job in the last quarter of college which is now about 9 months ago. I got really close two days ago and had an interview scheduled, but day of they cancelled because someone they made an offer to accepted, and the position was now filled. I&amp;#8217;m now reaching the time-frame where I can&amp;#8217;t apply to new-grad positions because I am not really a new grad. There are still open jobs that don&amp;#8217;t require experience, and the cancelled interview shows that I could still get something. But after 9 months of searching I can&amp;#8217;t help but wonder what would be if I had gotten a CS degree.&lt;/p&gt;
+
+&lt;p&gt;Update: 2026&amp;#8211;05&amp;#8211;30:
+I got a job. :)&lt;/p&gt;</content>
 		<link href="https://barf.btxx.org/Maybe I Should Have Gotten a CS Degree"/>
 		<id>https://barf.btxx.org/Maybe I Should Have Gotten a CS Degree</id>
 		<updated>2026-04-09T10:00:00Z</updated>
@@ -298,6 +325,27 @@ I when to a Blues Traveler concert this weekend, and was granted backstage acces
 		<published>2024-04-12T10:00:00Z</published>
 	</entry>
 	<entry>
+		<title>Book Reading Part 2</title>
+		<content type="html">&lt;h1 id=&quot;bookreadingpart2&quot;&gt;Book Reading Part 2&lt;/h1&gt;
+
+&lt;p&gt;2026&amp;#8211;09&amp;#8211;21&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I didn&amp;#8217;t mean to take a whole year to get around to the next set of books, but it might be a yearly thing, idk. I lined up &lt;em&gt;To Kill a Mockingbird&lt;/em&gt;, &lt;em&gt;One Hundred Years of Solitude&lt;/em&gt;, and &lt;em&gt;American Gods&lt;/em&gt; as my next books to reads, but after being gifted a copy of &lt;em&gt;Artemis&lt;/em&gt; and &lt;em&gt;Project Hail Mary&lt;/em&gt; by Andy Weir and &lt;em&gt;Neuromancer&lt;/em&gt; by my Dad I read those.&lt;/p&gt;
+
+&lt;h2 id=&quot;artemis&quot;&gt;Artemis&lt;/h2&gt;
+
+&lt;p&gt;88,390 words&lt;/p&gt;
+
+&lt;p&gt;Quick Summary: Jazz, a resident of the moon city Artemis, is
+I got &lt;em&gt;Artemis&lt;/em&gt; and &lt;em&gt;Project Hail Mary&lt;/em&gt; at the same time, and decided to read &lt;em&gt;Artemis&lt;/em&gt; first because it looked shorter.&lt;/p&gt;</content>
+		<link href="https://barf.btxx.org/Book Reading Part 2"/>
+		<id>https://barf.btxx.org/Book Reading Part 2</id>
+		<updated>2026-09-21T10:00:00Z</updated>
+		<published>2026-09-21T10:00:00Z</published>
+	</entry>
+	<entry>
 		<title>Book Reading Part 1</title>
 		<content type="html">&lt;h1 id=&quot;bookreadingpart1&quot;&gt;Book Reading Part 1&lt;/h1&gt;
 
@@ -306,8 +354,9 @@ I wanted to read more books since I got a kindle so I compiled a list of books t
 
 &lt;h2 id=&quot;bravenewworld&quot;&gt;Brave New World&lt;/h2&gt;
 
-&lt;p&gt;88,976 Words
-Quick Summary: Everyone is grow as test tube babies. No mothers just straight out of the tube. A single egg is cloned upwards of like a thousand times, and the clones are all given chemicals to edit their body and personality(Including making them dumber). Everyone reveres Henry Ford like a god and even say &amp;#8220;Oh Ford&amp;#8221; instead of &amp;#8220;Oh God&amp;#8221;. Everyone takes a concoction of drugs called Soma that is told as this perfect happiness pill. Theirs a reservation on the west cost of the united states for native americans. A dude from the &amp;quot;
+&lt;p&gt;88,976 Words&lt;/p&gt;
+
+&lt;p&gt;Quick Summary: Everyone is grow as test tube babies. No mothers just straight out of the tube. A single egg is cloned upwards of like a thousand times, and the clones are all given chemicals to edit their body and personality(Including making them dumber). Everyone reveres Henry Ford like a god and even say &amp;#8220;Oh Ford&amp;#8221; instead of &amp;#8220;Oh God&amp;#8221;. Everyone takes a concoction of drugs called Soma that is told as this perfect happiness pill. Theirs a reservation on the west cost of the united states for native americans. A dude from the &amp;quot;
 civilized&amp;quot; society goes and finds a dude, who they call the &amp;#8220;Savage&amp;#8221;, there and takes him out of the reservation and basically parades him around. Eventually the Savage gets super grossed out and tries to destroy some Soma. Finally the Savage tries to live a life alone in the English countries side. Some people find him whipping himself and a crowd of people rush to see this. He hangs himself at the end.&lt;/p&gt;
 
 &lt;p&gt;The book would be good if it didn&amp;#8217;t advocate for eugenics. There a whole story about how an island is populated with &amp;#8220;alphas&amp;#8221; and the island could not function because they need more obedient people to do all the work. It just straight up advocates for having distinct social classes were everyone dresses the same based on their class. I shouldn&amp;#8217;t even be surprised, I knew going into the book that Henry Ford was treated like a god which show the authors ideals.
@@ -315,16 +364,18 @@ I think that the idea of Soma could draw parallels to modern day technology use,
 
 &lt;h2 id=&quot;thegirlwiththedragontattoo&quot;&gt;The Girl with the Dragon Tattoo&lt;/h2&gt;
 
-&lt;p&gt;136,800 Words
-Writing this fresh after reading it. That ending is very pathetic, but the book is very good. I know there is more books in the series apparently, but I am assuming that&amp;#8217;s it.
+&lt;p&gt;136,800 Words&lt;/p&gt;
+
+&lt;p&gt;Writing this fresh after reading it. That ending is very pathetic, but the book is very good. I know there is more books in the series apparently, but I am assuming that&amp;#8217;s it.
 Anyways I found the content of the book to flip flop between very violent and very boring. That first rape of Elisabeth, in my opinion, came out of no where. I guess I should have been expecting it because its a &amp;#8220;physiological thriller&amp;#8221;, but I was reading it on a kindle, and I downloaded it without reading the description.
 What I liked was the build up of the mystery of what happened to Harriet. I think when he first found the lead of the photo of Harriet, I was finally happy something had happened. However, now I relies that I the author was really good at building up the characters and environment before everything that happened after.
 Good god was it a long book.&lt;/p&gt;
 
 &lt;h1 id=&quot;catch-22&quot;&gt;Catch-22&lt;/h1&gt;
 
-&lt;p&gt;143,601 Words
-Reading Now&lt;/p&gt;</content>
+&lt;p&gt;143,601 Words&lt;/p&gt;
+
+&lt;p&gt;Dropped. Sadly, after not feeling it I decided to stop reading Catch-22.&lt;/p&gt;</content>
 		<link href="https://barf.btxx.org/Book Reading Part 1"/>
 		<id>https://barf.btxx.org/Book Reading Part 1</id>
 		<updated>2025-07-21T10:00:00Z</updated>
