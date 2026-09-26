@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Daniel's Blog</title>
 	<link href="https://barf.btxx.org/atom.xml" rel="self" />
-	<updated>2026-09-26T10:56:12Z</updated>
+	<updated>2026-09-26T11:14:43Z</updated>
 	<author>
 		<name>Daniel Hughes</name>
 	</author>
@@ -323,27 +323,6 @@ I when to a Blues Traveler concert this weekend, and was granted backstage acces
 		<id>https://barf.btxx.org/Feeling out of place</id>
 		<updated>2024-04-12T10:00:00Z</updated>
 		<published>2024-04-12T10:00:00Z</published>
-	</entry>
-	<entry>
-		<title>Book Reading Part 2</title>
-		<content type="html">&lt;h1 id=&quot;bookreadingpart2&quot;&gt;Book Reading Part 2&lt;/h1&gt;
-
-&lt;p&gt;2026&amp;#8211;09&amp;#8211;21&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I didn&amp;#8217;t mean to take a whole year to get around to the next set of books, but it might be a yearly thing, idk. I lined up &lt;em&gt;To Kill a Mockingbird&lt;/em&gt;, &lt;em&gt;One Hundred Years of Solitude&lt;/em&gt;, and &lt;em&gt;American Gods&lt;/em&gt; as my next books to reads, but after being gifted a copy of &lt;em&gt;Artemis&lt;/em&gt; and &lt;em&gt;Project Hail Mary&lt;/em&gt; by Andy Weir and &lt;em&gt;Neuromancer&lt;/em&gt; by my Dad I read those.&lt;/p&gt;
-
-&lt;h2 id=&quot;artemis&quot;&gt;Artemis&lt;/h2&gt;
-
-&lt;p&gt;88,390 words&lt;/p&gt;
-
-&lt;p&gt;Quick Summary: Jazz, a resident of the moon city Artemis, is
-I got &lt;em&gt;Artemis&lt;/em&gt; and &lt;em&gt;Project Hail Mary&lt;/em&gt; at the same time, and decided to read &lt;em&gt;Artemis&lt;/em&gt; first because it looked shorter.&lt;/p&gt;</content>
-		<link href="https://barf.btxx.org/Book Reading Part 2"/>
-		<id>https://barf.btxx.org/Book Reading Part 2</id>
-		<updated>2026-09-21T10:00:00Z</updated>
-		<published>2026-09-21T10:00:00Z</published>
 	</entry>
 	<entry>
 		<title>Book Reading Part 1</title>
